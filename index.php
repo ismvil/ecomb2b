@@ -34,7 +34,7 @@ session_start();
             <div class="navbar-collapse collapse move-me">
                 <ul class="nav navbar-nav navbar-right">
                     <li ><a href="#home">HOME</a></li>
-                     <li><a href="Customers/shop.php">SHOP</a></li>
+                     <li><a href="Customers/shop.html">SHOP</a></li>
                      <li><a href="#brand-sec">BRANDS</a></li>
 					 <li><a href="#course-sec">CONTACT US</a></li>
                      
